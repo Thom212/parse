@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.16.4",
+    "parse-dashboard": "^1.2.0",
+    "parse-server": "^3.1.3"
+  }
+}
