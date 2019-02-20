@@ -10,5 +10,8 @@
   "main": "index.js",
   "repository": "git@github.com:Thom212/parse.git",
   "author": "sdc <android212@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
 }
